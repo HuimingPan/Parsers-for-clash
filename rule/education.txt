@@ -3,6 +3,9 @@
 # UPDATED: 2024-03-14
 payload:
   - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,sciencedirect.com
+  - DOMAIN-SUFFIX,sciencedirectassets.com
+  - DOMAIN-SUFFIX,els-cdn.com
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,ghcr.io
