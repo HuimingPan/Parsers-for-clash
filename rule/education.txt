@@ -1,5 +1,8 @@
+# NAME: Education
+# AUTHOR: Herman
+# UPDATED: 2024-03-14
 payload:
-  - DOMAIN-SUFFIX, ieee.org
+  - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,ghcr.io
