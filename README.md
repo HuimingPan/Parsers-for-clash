@@ -13,6 +13,7 @@
     - 香港
     - 其它
 - 可独立选择机场
+    - EDUCATION (直连IEEE, Springer, github) 
     - Openai
     - Bing（2023-04-08添加，可用new bing）
     - Google（2023-05-06添加，强化谷歌线路的一致化，可以找Bard聊天了💬）
@@ -20,8 +21,7 @@
     - YouTube
     - Bilibili国际版（2023-04-08添加）
     - Twitter（2023-05-18添加，以应对机场的某些线路限制）
-- 线路规划
-    - GitHub
+
 - 广告屏蔽
 
 # 界面效果
@@ -40,8 +40,7 @@ ps：我用的是Clash for Windows
 
 # 推介
 如果你的机场不稳定，可以尝试我踩了几个坑后改用的这个
-[专线版](https://98ka.men/#/register?code=48erzZ7G)
-
+[专用版](https://www.easyfastcloud.com/#/register?code=LwqRuIO6)
 ps：不要用某莓的机场
 
 # 特别声明
