@@ -1,6 +1,10 @@
 payload:
-  - PROCESS-NAME,Zotero
-  - PROCESS-NAME,Zotero.exe
+  - PROCESS-NAME,olk
+  - PROCESS-NAME,olk.exe
+  - PROCESS-NAME,msedgewebview2
+  - PROCESS-NAME,msedgewebview2.exe
+  - PROCESS-NAME,zotero
+  - PROCESS-NAME,zotero.exe
   - PROCESS-NAME,PyCharm
   - PROCESS-NAME,PyCharm.exe
   - PROCESS-NAME,hysteria
