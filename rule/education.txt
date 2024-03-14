@@ -2,6 +2,7 @@
 # AUTHOR: Herman
 # UPDATED: 2024-03-14
 payload:
+  - DOMAIN-SUFFIX,overleaf.com
   - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,sciencedirect.com
   - DOMAIN-SUFFIX,sciencedirectassets.com
