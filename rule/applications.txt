@@ -1,4 +1,15 @@
 payload:
+  - PRECESS-NAME,WeChat.exe
+  - PRECESS-NAME,WeChatAppEx.exe
+  - PRECESS-NAME,WeChatOCR.exe
+  - PRECESS-NAME,WeChatPlayer.exe
+  - PRECESS-NAME,WeChatUtility.exe
+  - PRECESS-NAME,WeChat
+  - PRECESS-NAME,WeChatAppEx
+  - PRECESS-NAME,WeChatOCR
+  - PRECESS-NAME,WeChatPlayer
+  - PRECESS-NAME,WeChatUtility
+  - PRECESS-NAME,mmcrashpad_handlerexe
   - PROCESS-NAME,olk
   - PROCESS-NAME,olk.exe
   - PROCESS-NAME,msedgewebview2
