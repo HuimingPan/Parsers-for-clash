@@ -2,6 +2,10 @@
 # AUTHOR: Herman
 # UPDATED: 2024-03-14
 payload:
+  - DOMAIN-SUFFIX,degruyter.com
+  - DOMAIN-SUFFIX,nature.com
+  - DOMAIN-SUFFIX,springernature.com
+  - DOMAIN-SUFFIX,orcid.org
   - DOMAIN-SUFFIX,overleaf.com
   - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,sciencedirect.com
