@@ -1,6 +1,6 @@
 # Parsers for clash  
  
- 一直没找到一个满足自己需求的预处理配置，陆陆续续按照网络上的各种版本修改-测试，也慢慢理解了编写的语言规则，渐渐形成这个好用的版本，和大家共享❤️️，有建议的欢迎留言😄
+从 iczrac/Parsers-for-clash fork而来，更新Education和Application两个Rules group
  
 # 主要功能特色
 - 自带测速选择（机场各节点、YouTube可单独测速优选）
