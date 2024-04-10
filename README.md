@@ -40,7 +40,7 @@ ps：我用的是Clash for Windows
 
 # 推介
 如果你的机场不稳定，可以尝试我踩了几个坑后改用的这个
-[专用版]([https://www.easyfastcloud.com/#/register?code=LwqRuIO6](https://www.easyfastcloud.com/#/register?code=LwqRuIO6))
+[专用版](https://www.easyfastcloud.com/#/register?code=LwqRuIO6)
 
 # 特别声明
 只支持用于网络技术学习研究，一切涉及违法违纪的与本人无关
