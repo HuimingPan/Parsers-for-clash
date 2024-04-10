@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,springernature.com
   - DOMAIN-SUFFIX,orcid.org
   - DOMAIN-SUFFIX,overleaf.com
+  - DOMAIN-SUFFIX,springer.com 
   - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,sciencedirect.com
   - DOMAIN-SUFFIX,sciencedirectassets.com
