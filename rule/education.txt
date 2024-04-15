@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,sciencedirect.com
   - DOMAIN-SUFFIX,sciencedirectassets.com
+  - DOMAIN-SUFFIX,liebertpub.com
   - DOMAIN-SUFFIX,els-cdn.com
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,dependabot.com
@@ -41,4 +42,3 @@ payload:
   - DOMAIN-SUFFIX,rawgithub.com
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,thegithubshop.com
-  - DOMAIN-KEYWORD,github
