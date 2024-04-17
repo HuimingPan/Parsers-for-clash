@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,overleaf.com
   - DOMAIN-SUFFIX,springer.com 
   - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN,ieeexplore.demdex.net
   - DOMAIN-SUFFIX,sciencedirect.com
   - DOMAIN-SUFFIX,sciencedirectassets.com
   - DOMAIN-SUFFIX,liebertpub.com
