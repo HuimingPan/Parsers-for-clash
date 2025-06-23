@@ -27,3 +27,5 @@ payload:
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN-SUFFIX,science.org
+  - DOMAIN-SUFFIX,ieee-rex.scienceconnect.io
+  - DOMAIN-SUFFIX,ieee.atyponrex.com
