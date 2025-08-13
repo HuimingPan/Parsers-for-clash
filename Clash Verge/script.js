@@ -54,6 +54,12 @@ const ruleProviders = {
         "url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt",
         "path": "./ruleset/google.yaml"
     },
+    "GitHub":{
+        ...ruleProviderCommon,
+        "behavior": "classical",
+        "url": "https://raw.githubusercontent.com/HuimingPan/Parsers-for-clash/refs/heads/main/Clash%20Verge/github.yaml",
+        "path": "./rules/GitHub.yaml"
+    },
     "proxy": {
         ...ruleProviderCommon,
         "behavior": "domain",
@@ -146,6 +152,7 @@ const rules = [
     "DOMAIN,clash.razord.top,DIRECT",
     "DOMAIN,yacd.haishan.me,DIRECT",
     "RULE-SET,Education,Education",
+    "RULE-SET,GitHub,GitHub",
     "RULE-SET,private,DIRECT",
     "RULE-SET,reject,REJECT",
     "RULE-SET,apple,Apple",
@@ -209,9 +216,17 @@ function main(config) {
             ...groupBaseOption,
             "name": "Education",
             "type": "select",
-            "proxies": ["DIRECT,no-solve", "香港", "日本", "美国", "新加坡", "其他地区"],
+            "proxies": ["DIRECT", "香港", "日本", "美国", "新加坡", "其他地区"],
             "include-all": false,
             "icon": "https://www.seekpng.com/png/full/269-2699239_red-graduation-cap-png-graduation-cap-png-red.png",
+        },
+        {
+            ...groupBaseOption,
+            "name": "GitHub",
+            "type": "select",
+            "proxies": ["DIRECT", "香港", "日本", "美国", "新加坡", "其他地区"],
+            "include-all": false,
+            "icon": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/github.svg",
         },
         {
             ...groupBaseOption,

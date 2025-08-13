@@ -1,0 +1,7 @@
+# NAME: Education
+# AUTHOR: Herman
+# UPDATED: 2024-03-14
+payload:
+  - DOMAIN,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.io
