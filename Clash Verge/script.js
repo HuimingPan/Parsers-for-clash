@@ -138,11 +138,11 @@ const ruleProviders = {
         "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.yaml",
         "path": "./rules/Gemini.yaml"
     },
-    "Education":{
+    "Academic":{
         ...ruleProviderCommon,
         "behavior": "classical",
-        "url": "https://raw.githubusercontent.com/HuimingPan/Parsers-for-clash/refs/heads/main/Clash%20Verge/education.yaml",
-        "path": "./rules/Education.yaml"
+        "url": "https://raw.githubusercontent.com/HuimingPan/Parsers-for-clash/refs/heads/main/Clash%20Verge/adacemic.yaml",
+        "path": "./rules/Academic.yaml"
     }
 };
 
@@ -151,7 +151,7 @@ const rules = [
     // 自定义规则"RULE-SET,applications,DIRECT",
     "DOMAIN,clash.razord.top,DIRECT",
     "DOMAIN,yacd.haishan.me,DIRECT",
-    "RULE-SET,Education,Education",
+    "RULE-SET,Academic,Academic",
     "RULE-SET,GitHub,GitHub",
     "RULE-SET,private,DIRECT",
     "RULE-SET,reject,REJECT",
@@ -214,7 +214,7 @@ function main(config) {
         // ====== 服务策略组 ======
         {
             ...groupBaseOption,
-            "name": "Education",
+            "name": "Academic",
             "type": "select",
             "proxies": ["DIRECT", "香港", "日本", "美国", "新加坡", "其他地区"],
             "include-all": false,
